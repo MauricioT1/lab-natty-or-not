@@ -12,4 +12,4 @@ Basicamente pedi ajuda ao nosso amigo Copilot para gerar uma imagem de uma IA aj
 
 ## 🚀 Resultados
 
-!(https://github.com/user-attachments/assets/d819cfa4-26dc-4066-9d8b-dcc59a4d0bf8)
+![Imagem gerada pelo Copilot](https://github.com/user-attachments/assets/d819cfa4-26dc-4066-9d8b-dcc59a4d0bf8)

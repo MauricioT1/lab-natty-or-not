@@ -12,4 +12,4 @@ Basicamente pedi ajuda ao nosso amigo Copilot para gerar uma imagem de uma IA aj
 
 ## 🚀 Resultados
 <img src="/src/OiG1.png">
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)

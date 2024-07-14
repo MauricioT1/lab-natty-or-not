@@ -14,4 +14,4 @@ Basicamente pedi ajuda ao nosso amigo Copilot para gerar uma imagem de uma IA aj
 <p align="center">
     <img width="1024" src="src/OiG1.jfif">
 </p>
-![IA Ajudando a programar em python](img/markdown.png)
+![IA Ajudando a programar em python](src/OiG1.jfif)

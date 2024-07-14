@@ -11,8 +11,5 @@ Na realização deste projeto foi utilizado a IA generativa do Bing Copilot para
 Basicamente pedi ajuda ao nosso amigo Copilot para gerar uma imagem de uma IA ajudando alguem a programar em Python.
 
 ## 🚀 Resultados
-<div align="center">
-<img src="src/OiG1.png" width="700px" />
-</div>
-![OiG1](https://github.com/user-attachments/assets/9df50893-954e-4333-8e38-fdfc698ed604)
+<img src="/src/OiG1.png">
 

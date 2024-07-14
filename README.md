@@ -11,5 +11,5 @@ Na realização deste projeto foi utilizado a IA generativa do Bing Copilot para
 Basicamente pedi ajuda ao nosso amigo Copilot para gerar uma imagem de uma IA ajudando alguem a programar em Python.
 
 ## 🚀 Resultados
-<img src="/src/OiG1.png">
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+!(https://github.com/user-attachments/assets/d819cfa4-26dc-4066-9d8b-dcc59a4d0bf8)
